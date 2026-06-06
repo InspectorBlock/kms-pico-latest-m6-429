@@ -1,0 +1,14 @@
+{
+  "name": "kms-pico-latest-m6-429",
+  "version": "1.0.0",
+  "description": "A powerful and flexible tool",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "start": "node index.js",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
